@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../A-APP/evn-app/java/java-1.8/bin" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
